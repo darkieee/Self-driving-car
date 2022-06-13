@@ -8,4 +8,4 @@ Main steps covered in this lab are:
 - deep network design and training 
 - visualization of the certainty/uncertainty of the model's predictions
 
-You can find my submission [here](https://github.com/ndrplz/self-driving-car/blob/master/project_2_traffic_sign_classifier/Traffic_Sign_Classifier.ipynb).
+You can find my submission [here](https://github.com/darkieee/Self-driving-car/blob/main/project_2_traffic_sign_classifier/Traffic_Sign_Classifier.ipynb).
